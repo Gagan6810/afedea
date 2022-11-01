@@ -1,0 +1,39 @@
+body {
+    background-size: cover;
+    
+}
+
+.heading{
+    color:aqua;
+    font-size:30px;
+    width:100%;
+    margin:0;
+    height: 60px;
+}
+
+#start_btn{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+#status{
+    margin-right:15px;
+}
+
+.footer{
+    background-color:navy;
+    color:aqua;
+    bottom:0;
+    position:fixed;
+    width:100%;
+    height:25px;
+    font-family:cursive;
+    font-size: 20px;
+    text-align:center;
+    padding-bottom:15px;
+}
+
+canvas{
+    border : ridge 5px navy;
+    border-radius:10px;
+}
